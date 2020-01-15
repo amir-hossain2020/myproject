@@ -1,0 +1,37 @@
+body{
+    background: burlywood;
+    
+}
+header H4{
+    padding-right: 350pX;
+    margin-right: 20px;
+    font-size: 40px;
+    
+}
+H3{
+    font-size: 30px;
+}
+H2{
+    font-size: 30px;
+
+}
+H1{
+    font-size: 30px;
+}
+H5{
+    font-size: 30px;
+
+}
+H6{
+    font-size: 30px;
+}
+H7{
+    font-size: 30px;
+
+}
+body iframe{
+    margin: 100pX;
+}
+P{
+    font-size: 20pX;
+}

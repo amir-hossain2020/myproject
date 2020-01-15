@@ -1,0 +1,29 @@
+nav a{
+    margin-right: 10px;
+    color: white;
+}
+nav a:hover{
+    color: red;
+}
+
+#form{
+    background-color: green;
+}
+
+#news{
+    background-color: hotpink;
+}
+
+footer{
+    background-color: #333333;
+}
+
+footer p{
+    color: white;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: red;
+}
